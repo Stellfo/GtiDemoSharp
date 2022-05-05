@@ -8,6 +8,6 @@ namespace GitTestSharp
 {
     internal class Employee:Person
     {
-        public string somthing { get; set; }
+        public string Department { get; set; }
     }
 }
